@@ -37,14 +37,3 @@ Languages used: **PHP**, CSS, JavaScript
 </p>
 
 ---
-
-#### 🌐 Connect With Me  
-<p align="left">
-  <a href="https://linkedin.com/in/derya-kımırtı-801a25229">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
