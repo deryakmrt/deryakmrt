@@ -5,10 +5,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
 </p>
 
-### 👨‍💻 About Me
-I'm a Computer Engineering student passionate about building scalable web applications.  
-Currently working on an **ERP system** using **ASP.NET Core** and **SQL Server**.  
-Next goals: diving deeper into **Docker**, **Kubernetes**, and **microservices**.
+### 👩‍💻 About Me  
+I build web applications with a focus on ERP systems using **PHP**.  
+Currently developing **RenPlan ERP**, a full web-based ERP solution (inventory, sales, CRM, finance). 
+I’m also exploring containerization (Docker), microservices, and Kubernetes as next steps.
+
+---
+### 💼 Featured Project: RenPlan ERP  
+A modular ERP system built for Ditetra Innovation, with:  
+- Inventory & stock management  
+- Orders & sales tracking  
+- CRM (Customer Relationship Management)  
+- Finance & reporting modules  
+- Role & permission system  
+
+Languages used: **PHP**, CSS, JavaScript
 
 ---
 
@@ -27,7 +38,7 @@ Next goals: diving deeper into **Docker**, **Kubernetes**, and **microservices**
 
 ---
 
-### 🌐 Connect With Me  
+#### 🌐 Connect With Me  
 <p align="left">
   <a href="https://linkedin.com/in/derya-kımırtı-801a25229">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
