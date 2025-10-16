@@ -7,7 +7,7 @@
 
 ### 👩‍💻 About Me  
 I build web applications with a focus on ERP systems using **PHP**.  
-Currently developing **RenPlan ERP**, a full web-based ERP solution (inventory, sales, CRM, finance). 
+Currently developing **RenPlan ERP**, a full web-based ERP solution (inventory, sales, CRM, finance).   
 I’m also exploring containerization (Docker), microservices, and Kubernetes as next steps.
 
 ---
