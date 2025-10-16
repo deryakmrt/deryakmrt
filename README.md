@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, Ben Derya! 👋</h1>
+<h2 align="center">Merhaba, Ben Derya! 👋</h1>
 <h3 align="center">🚀 Full Stack Developer & Open Source Enthusiast</h3>
 
 <!--<p align="center">
@@ -35,7 +35,7 @@
   
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />-->
   
   <!-- Database -->
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
