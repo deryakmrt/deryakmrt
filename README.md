@@ -1,9 +1,9 @@
-## Merhaba, Derya! 👋
+## Merhaba, ben Derya! 👋
 
-## 💻 Teknoloji Stack'im
+### 💻 Teknoloji Stack'im
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deryakmrt&layout=compact&theme=radical)
 
-## 📊 GitHub İstatistiklerim
+### 📊 GitHub İstatistiklerim
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deryakmrt&show_icons=true&theme=radical)
 
 ## 🔧 Kullandığım Teknolojiler
