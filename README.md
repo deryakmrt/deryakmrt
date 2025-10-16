@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
 </p>
-
 ### 👩‍💻 About Me  
 I build web applications with a focus on ERP systems using **PHP**.  
 Currently developing **RenPlan ERP**, a full web-based ERP solution (inventory, sales, CRM, finance).   
